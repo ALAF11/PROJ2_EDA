@@ -1,0 +1,235 @@
+39
+leaf
+sorrel
+Westlake produce company
+5
+5
+71
+leaf
+squash
+Galli Produce Inc
+5
+5
+68
+leaf
+ginger
+Primo Growers And Distributors
+3
+3
+23
+leaf
+cauliflower
+The SF Market (San Francisco Wholesale Produce Market)
+4
+4
+47
+leaf
+collard
+Produce Services of Los Angeles
+4
+4
+52
+leaf
+bell pepper
+Westlake produce company
+1
+1
+77
+leaf
+chickpea
+Mountain Produce
+5
+5
+80
+leaf
+spinach
+Reyes Wholesale Produce
+1
+1
+37
+leaf
+chive
+Ensenada Produce Distributors
+3
+3
+41
+bud vegetables
+peanut
+DLJ Produce Distributors
+2
+2
+63
+bud vegetables
+chard
+Field Fresh Distributors
+3
+3
+46
+bud vegetables
+tomatillo
+Ensenada Produce Distributors
+5
+5
+23
+bud vegetables
+yam
+Mountain Produce
+5
+5
+43
+bud vegetables
+rutabaga
+Nacho's Wholesale Produce
+2
+2
+54
+bud vegetables
+arugula
+California Green Distributor, Inc
+4
+4
+37
+seed vegetables
+broad bean
+Mountain Produce
+5
+5
+41
+seed vegetables
+chicory
+DLJ Produce Distributors
+3
+3
+51
+seed vegetables
+pea
+The SF Market (San Francisco Wholesale Produce Market)
+5
+5
+38
+seed vegetables
+lemongrass
+LA Produce Distributors
+1
+1
+48
+seed vegetables
+arugula
+M&M Farms Inc.
+5
+5
+78
+seed vegetables
+common bean
+DLJ Produce Distributors
+4
+4
+27
+seed vegetables
+jícama
+Get Fresh Distributors Inc
+4
+4
+73
+seed vegetables
+celeriac
+West Central Produce
+4
+4
+73
+flower
+chickpea
+Alliance Produce Distributors
+1
+1
+28
+flower
+mustard
+Mountain Produce
+3
+3
+61
+flower
+avocado
+LA Produce Distributors
+2
+2
+72
+flower
+chinese water chestnut
+California Green Distributor, Inc
+1
+1
+61
+fruit
+mustard
+Ensenada Produce Distributors
+5
+5
+60
+fruit
+ginger
+Field Fresh Distributors
+3
+3
+49
+fruit
+radish
+DLJ Produce Distributors
+5
+5
+51
+fruit
+musk cucumber
+LA Produce Distributors
+2
+2
+46
+fruit
+kale
+Get Fresh Distributors Inc
+2
+2
+68
+stem vegetables
+fennel
+Reyes Wholesale Produce
+5
+5
+76
+stem vegetables
+potato
+West Central Produce
+5
+5
+51
+root
+grape leaves
+Alliance Produce Distributors
+1
+1
+30
+root
+bamboo
+Nacho's Wholesale Produce
+4
+4
+27
+tuberous vegetables
+chive
+Galli Produce Inc
+5
+5
+80
+tuberous vegetables
+loofah
+West Central Produce
+5
+5
+22
+bulb
+celery
+California Green Distributor, Inc
+1
+1
+56

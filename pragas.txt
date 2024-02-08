@@ -1,0 +1,43 @@
+7
+stem vegetables
+musk cucumber
+M&M Farms Inc.
+2
+1
+33
+root
+tossa jute
+West Central Produce
+3
+1
+43
+bulb
+brussels sprouts
+Reyes Wholesale Produce
+2
+1
+67
+stem vegetables
+bamboo
+California Green Distributor, Inc
+2
+1
+36
+bulb
+gherkin
+Produce Services of Los Angeles
+2
+1
+73
+tuberous vegetables
+pepper
+Nacho's Wholesale Produce
+1
+1
+73
+bulb
+borage
+Field Fresh Distributors
+5
+1
+66

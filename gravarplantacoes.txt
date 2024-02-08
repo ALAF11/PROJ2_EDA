@@ -1,0 +1,120 @@
+A
+1
+tuberous vegetables
+4
+4
+common bean
+S and L Wholesale Produce
+4
+70
+0
+loofah
+Nacho's Wholesale Produce
+2
+51
+0
+pepper
+Field Fresh Distributors
+2
+63
+0
+indian fig
+Ensenada Produce Distributors
+3
+33
+0
+B
+2
+tuberous vegetables
+8
+4
+bamboo
+California Green Distributor, Inc
+5
+43
+2
+musk cucumber
+Mountain Produce
+4
+37
+2
+bell pepper
+West Central Produce
+3
+73
+2
+indian fig
+Westlake produce company
+5
+55
+4
+C
+3
+root
+3
+2
+bamboo
+Ensenada Produce Distributors
+1
+39
+0
+grape leaves
+California Green Distributor, Inc
+3
+25
+1
+D
+4
+stem vegetables
+8
+4
+burdock
+Primo Growers And Distributors
+5
+68
+0
+plantain
+West Central Produce
+1
+71
+0
+taro
+DLJ Produce Distributors
+5
+50
+1
+lotus
+DLJ Produce Distributors
+3
+77
+2
+E
+5
+tuberous vegetables
+3
+0
+F
+6
+bulb
+4
+3
+broccoli
+The SF Market (San Francisco Wholesale Produce Market)
+4
+58
+0
+amaranth
+S and L Wholesale Produce
+2
+70
+0
+peanut
+Get Fresh Distributors Inc
+3
+54
+2
+G
+7
+flower
+7
+0

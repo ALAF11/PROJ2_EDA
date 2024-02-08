@@ -1,0 +1,26 @@
+A
+0
+B
+2
+breadfruit
+celeriac
+C
+4
+bell pepper
+carrot
+ginger
+taro
+D
+2
+napa cabbage
+salsify
+E
+0
+F
+4
+chard
+chive
+lotus
+stinging nettle
+G
+0
